@@ -1,5 +1,4 @@
-# 💫 About Me:
-<br>## 🚀 About Me<br>I'm a full stack developer...
+# Hi, I'm Nehal Shams! 👋
 
 
 # 💻 Tech Stack:
